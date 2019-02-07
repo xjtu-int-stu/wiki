@@ -18,6 +18,6 @@
 * (add bus instruction)
 
 ## At the (location name)
-(add furthr instruction such as which counter to contact)
+(add further instruction such as which counter to contact)
 
 **Last Update:** (add date of last update)
