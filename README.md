@@ -9,7 +9,7 @@ The online and most updated version of this wiki is available at https://github.
 ## Get started
 * For new students, please check the [new student guide](new-comers/README.md).
 * For current students, you can explore around the wiki to find useful information. If you need a search, please use [the search function](https://gitlab.com/search?utf8=%E2%9C%93&snippets=&scope=&search=&project_id=10419753) and put in the keywords. 
-* To browse this wiki, please see [the index](index/README.md).
+* To browse this wiki, please see [THE WIKI INDEX](index/README.md).
 
 ## Contribution guideline  
 * This document is mainly written in *markdown language* because it is simple and flexible. See [How to write markdown on Gitlab](https://docs.gitlab.com/ee/user/markdown.html)
