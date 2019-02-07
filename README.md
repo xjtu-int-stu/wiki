@@ -9,12 +9,23 @@ The online and most updated version of this wiki is available at http://gitlab.c
 ## Get started
 * For new students, please check the [new student guide](new-comers/README.md).
 * For current students, you can explore around the wiki to find useful information. If you need a search, please use [the search function](https://gitlab.com/search?utf8=%E2%9C%93&snippets=&scope=&search=&project_id=10419753) and put in the keywords. 
+* To browse this wiki, please see [the index](index/README.md).
 
 ## Contribution guideline  
 * This document is mainly written in *markdown language* because it is simple and flexible. See [How to write markdown on Gitlab](https://docs.gitlab.com/ee/user/markdown.html)
-* Any other document formats are also welcomed. 
+* Any other document formats are also welcomed. Those document files will be kept within this file repository. Editable source file are encouraged since it is easier to be modified or updated in the future. 
 * If you know *markdown*, you can volunteer yourself to convert other document formats to *markdown*. So the wiki is cleaner and easier to navigate. 
 * If you have the information to share but do not know or want to put it on the wiki by yourself, please post it to the [Issue page](https://gitlab.com/pargorn/xjtu-docs/issues). 
 * Report to any inaccuracies can also be made at the very same [Issue page](https://gitlab.com/pargorn/xjtu-docs/issues). 
 * This work is liccensed under CC BY-NC 4.0. For detail, see [LICENSE](https://gitlab.com/pargorn/xjtu-docs/blob/master/LICENSE).
 
+## About this wiki
+New international students require a tremendeous amount of guidelines and recommendations to adapt to new environment at XJTU due to language barrier and complicated regulations. New students that cannot seek help from their senior countrymates are more likely to have a hard time dealing with all the steps. This wiki is meant to be a complete source of information where international students in XJTU can rely on. 
+
+### Disclaimer
+XJTU Wiki is an online open-content collaborative wiki; that is, a voluntary association of individuals and groups working to develop a common resource of human knowledge. The structure of the project allows any XJTU international students to alter the content. Please be advised that nothing found here has necessarily been reviewed by people with the expertise required to provide you with complete, accurate or reliable information.
+
+### Contributors
+This wiki is collectively made by international students in XJTU. The author of this wiki is "The International Students of Xi'an Jiaotong University". 
+
+**Last update:** February 7th, 2019
