@@ -4,7 +4,7 @@ Because people can get things done in a much better and more efficient way with 
 **XJTU Wiki** is the project to organize information needed for students in Xi'an Jiaotong University. This wiki [(What is wiki?)](https://en.wikipedia.org/wiki/Wiki) is intented to be collaboratively devloped by the community. It shall be freely available to everyone. Everyone is welcomed to collaborate (see [contribution guideline](#Contribution-guideline)). 
 
 ## How to referece to this wiki
-The online and most updated version of this wiki is available at http://gitlab.com/pargorn/xjtu-wiki . This wiki can also be [downloaded](https://gitlab.com/pargorn/xjtu-docs/-/archive/master/xjtu-docs-master.zip). 
+The online and most updated version of this wiki is available at https://github.com/xjtu-int-stu/wiki . This wiki can also be [downloaded](https://github.com/xjtu-int-stu/wiki/archive/master.zip). 
 
 ## Get started
 * For new students, please check the [new student guide](new-comers/README.md).
