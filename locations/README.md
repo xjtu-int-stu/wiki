@@ -1,19 +1,24 @@
 # Locations
 This is the index page for places that XJTU students must visit and may want to vist. In each page, detailed instruction will be provided including: 
-* Electronic location (link to maps)
-* 
+* Electronic location (link to maps).
+* Direction based on public transportation.
+* Guideline at the location.
 
 ## Places on-campus 
-### Banks
-* ICBC
-* BOC (Bank of China)
+### Banks & Telecom
+* [ICBC Bank](xjtu-icbc/README.md)
+* [BOC (Bank of China)](xjtu-boc/README.md)
+* China Unicom (See [map](maps/README.md))
+* [China Mobile](xjtu-china-mobile/README.md)
 
 ### Administrative
-* School of International Education (SIE)
-* 
+* [School of International Education (SIE)](xjtu-sie/README.md)
+* West 13 Dormitory (See [map](maps/README.md))
+* West 8 Dormitory (See [map](maps/README.md))
+
 ### Food
-* Wutong canteen
-* Cambridge canteen
+* Wutong canteen (See [map](maps/README.md))
+* Cambridge canteen (See [map](maps/README.md))
 
 ## Places off-campus
 ### Administrative 
