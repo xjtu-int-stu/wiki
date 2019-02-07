@@ -24,16 +24,18 @@ This is the index page for places that XJTU students must visit and may want to 
 ### Administrative 
 * [The PSB (Public Security Bueraru)](the-psb/README.md)
 * The notary office at DA YAN TA
-* The health center (not hospital)
+* [The health center](healthcare-center/README.md) (not hospital)
   
 ### Alternative banks
 * The south gate Bank of China (BOC)
 
+### Supermarkets
+* [Walmart at WANDA](wanda-walmart/README.md)
+* [Walmart at LI FENG](lifeng-walmart/README.md)
+* Vanguard near the rainbow bridge
+* New supermarket at LI JIA CUN (2019.02.08)
+
 ### Food
-* Market and supermarket 
-  * Vanguard 
-  * Walmart (Wanda)
-  * Walmart (YANXINGMEN Subway Station)
 * Non-halal restaurant
   * 
 * Halal certified restaurant
