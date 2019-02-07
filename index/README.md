@@ -6,6 +6,6 @@
 
 ## Optional articles
 * Apply for non-criminal record certificate
-* Do the health checkups
+* [Do the health checkups](../guidelines/health-exam/README.md)
 
 **Last Update:** February 7th, 2019
